@@ -20,30 +20,47 @@
     min-height: 100px;
 }
 
+.main .navegacao {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 3px;
+    list-style: none;
+}
+
+.main .navegacao ul {
+    list-style: none;
+}
+
+.main .navegacao ul li {
+    list-style: none;
+}
+
+.navCad,
+.navComp {
+    position: relative;
+    right: -320px;
+}
+
 .logo {
     background-repeat: no-repeat;
     background-image: url('./img/xicara-de-cafe.png');
 }
 
 .logo h3 {
-    margin-left: 30px;
+    margin-left: 10px;
+    font-size: 22px;
 }
 
-.botao-carrinho {
+.center a {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     margin-left: 10px;
     margin-top: -5px;
-    color: white;
+    color: white !important;
     text-decoration: none;
-    border: 1px solid white;
     padding: 3px 8px;
-    border-radius: 5px;
-}
-
-.menu h3 {
-    color: white;
 }
 
 .menu {
@@ -56,9 +73,16 @@
 .menu a {
     color: white;
     text-decoration: none;
-    border: 1px solid white;
-    padding: 3px 8px;
-    border-radius: 5px;
+}
+
+#botao-carrinho {
+    color: #fff;
+    font-weight: bolder;
+    text-decoration: none !important
+}
+
+#botao-carrinho Icon :hover {
+    text-shadow: 0 0 4px #fff, 0 0 4px #ff0;
 }
 
 
@@ -159,6 +183,15 @@
 }
 
 @media (max-width: 800px) {
+    .navCad,
+    .navComp {
+        display: flex;
+        flex-direction: column;
+    }
+    .navegacao {
+        display: flex;
+        flex-direction: column;
+    }
     .social-media {
         display: flex;
         flex-direction: column;

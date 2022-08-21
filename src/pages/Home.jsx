@@ -1,9 +1,14 @@
 import React from "react";
+import Main from "../HomePage/Main";
+import Footer from "../HomePage/Footer";
+import Container from "../HomePage/Container";
 function Home(){
     return(
         <>
             <div className="">
-                <h1>Home PAGE</h1>
+                <Main/>
+                <Container/>
+                <Footer/>
             </div>
         </>
     );

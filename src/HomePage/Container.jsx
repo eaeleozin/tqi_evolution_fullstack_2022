@@ -1,17 +1,18 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 
 function Container(){
     return(
         <>
         
          <div className="container">
-                            <div className="card-container">
+                            <div className="card-container" >
                                 <div className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa repudiandae atque facilis eveniet neque consequuntur quas dolorem aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla, ipsum. Lorem
                                     ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa repudiandae atque facilis eveniet neque consequuntur quas dolorem aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla, ipsum.
                                 </div>
                                 <div className="card">
                                     <div className="card-wrapper" >
-                                        <h2>Comprar</h2>
+                                        <h2>Comprar</h2>                                       
                                         <p>Confira Nossos Livros!</p>
                                     </div>
                                 </div>
@@ -19,14 +20,14 @@ function Container(){
 
                             <div className="card-container">
                                 <div className="card">
-                                    <div className="card-wrapper">
-                                        <a></a>
-                                        <h2>Vender</h2>
-                                        <p>Vem ver minha carreira profissional!</p>
+                               <div className="card-wrapper">
+                                        <h2 >Vender</h2> 
+                                        <p>Vender</p>
                                     </div>
                                 </div>
                                 <div className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa repudiandae atque facilis eveniet neque consequuntur quas dolorem aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla, ipsum. Lorem
                                     ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis distinctio nihil, culpa repudiandae atque facilis eveniet neque consequuntur quas dolorem aliquam maiores nulla ullam optio fugit voluptatibus soluta? Nulla, ipsum.
+                                    <button><Link className="link" to="/Sale">Vender</Link></button>
                                 </div>
                             </div>
 
@@ -42,6 +43,7 @@ function Container(){
                                 </div>
                             </div>
                         </div>
+
         </>
     );
 }

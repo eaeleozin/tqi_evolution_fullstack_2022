@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.center {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 2%;
+    display: flex;
+}
+
+.main {
+    padding: 40px 0;
+    width: 100%;
+    /* background: linear-gradient(-30deg, #050404, #2E1C2B, #4A1942, #893168); */
+    background: linear-gradient(-30deg, #BDB76B, #556B2F, #6B8E23, #808000);
+    position: relative;
+    min-height: 100px;
+}
+
+.logoCadastros>h3 {
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.center a {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-top: -5px;
+    color: white !important;
+    text-decoration: none;
+    padding: 3px 8px;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.Cadastros {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cadastros>div {
+    display: flex;
+    flex-direction: column;
+    min-width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.Cadastros>div>label {
+    margin-bottom: 8px;
+}
+
+.Cadastros>div>input {
+    padding: 8px 8px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.contaienerCadastros {
+    margin-top: 15px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

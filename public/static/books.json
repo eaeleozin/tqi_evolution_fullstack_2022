@@ -1,0 +1,67 @@
+[
+{
+    "id": "94313731",
+    "titulo": "Game Of Thrones",
+    "autor": "George R R Martin" ,
+    "editora": "Bantam Books Us",
+    "Preco": 44.50,
+    "AnoPublicacao": 2011,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12102192/1001967447.jpg?v=637142222121500000" 
+   
+  },
+{
+    "id": "94313731",
+    "titulo": "Wild Cards",
+    "autor": "George R.R. Martin" ,
+    "editora": "LeYa",
+    "Preco": 44.50,
+    "AnoPublicacao": 2013,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/3250440/1000781430.jpg?v=637034263953530000"
+  },
+  
+  {
+    "id": "94313762",
+    "titulo": "Wild Cards",
+    "autor": "Martin,George R. R." ,
+    "editora": "FATNASY",
+    "Preco": 44.50,
+    "AnoPublicacao": 2013,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/9205780/1001003961.jpg?v=637103782537430000"
+  },  
+  { 
+    "id": "943137XQ",
+    "titulo": "A Espada Juramentada",
+    "autor": "Martin,George R. R." ,
+    "editora": "Leya C.P.",
+    "Preco": 35.2,
+    "AnoPublicacao":2014 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/6879741/371186.jpg?v=637072613011670000"    
+  },
+  {
+    "id": "95077714",
+    "titulo": "Sonho Febril",
+    "autor": "Martin,George R. R." ,
+    "editora": "Leya C.P",
+    "Preco": 18.1,
+    "AnoPublicacao": 2015,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/7172315/371353.jpg?v=637080379876770000" 
+  },
+  {
+    "id": "9507779N",
+    "titulo": "O Dragão de Gelo",
+    "autor": "Martin,George R. R." ,
+    "editora": "Casa Da Palavra",
+    "Preco": 18.1,
+    "AnoPublicacao": 2014 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/3337902/1002006368.jpg?v=637035495480870000" 
+  },
+  {
+    "id": "95004531",
+    "titulo": "A Game Of Thrones",
+    "autor": "Martin,George" ,
+    "editora": "Harpercollins Usa",
+    "Preco": 29.99,
+    "AnoPublicacao": 2019 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/164399/1000721288.jpg?v=636965633714830000" 
+  }
+]

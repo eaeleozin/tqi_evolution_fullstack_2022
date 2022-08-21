@@ -1,0 +1,85 @@
+[
+  {
+    "id": "93828502",
+    "titulo": "Demolidor - o Rei da Cozinha do Inferno",
+    "autor": "Bendis,Brian" ,
+    "editora": "Panini Books",
+    "Preco": 99,
+    "AnoPublicacao": 2017 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12107993/1008837020.jpg?v=637142244299170000" 
+  },
+  
+  {
+    "id": "95150929",
+    "titulo": "Deadpool - Antologia",
+    "autor": "Liefield,Rob" ,
+    "editora": "Panini Books",
+    "Preco": 126,
+    "AnoPublicacao": 2018 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12112133/1006694864.jpg?v=637142259620870000" 
+  },
+  {
+    "id": "95870805",
+    "titulo": "Universo X",
+    "autor": "Ross,Alex" ,
+    "editora": "Panini Books",
+    "Preco": 178,
+    "AnoPublicacao": 2018 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12102878/1006695062.jpg?v=637142224552070000" 
+  },
+  {
+    "id": "95707805",
+    "titulo": "X-Men - A Batalha do Átomo",
+    "autor": "Aaron,Jason" ,
+    "editora": "Panini Books",
+    "Preco": 74 ,
+    "AnoPublicacao": 2005 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12108170/1008838919.jpg?v=637142245009900000" 
+  },
+  {
+    "id": "94672719",
+    "titulo": "Thor Antologia",
+    "autor": "Lee,Stan" ,
+    "editora": "Panini Book",
+    "Preco": 126,
+    "AnoPublicacao": 2018 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12112463/1006626362.jpg?v=637142260950030000" 
+  },
+  {
+    "id": "95876431",
+    "titulo": "Os Novos Vingadores - Revolução",
+    "autor": "Brian Michae" ,
+    "editora": "Panini Book",
+    "Preco": 99,
+    "AnoPublicacao": 2018 ,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12104349/1006695966.jpg?v=637142229891200000" 
+  },
+ 
+  {
+    "id": "95707845",
+    "titulo": "Crononautas",
+    "autor": "Millar,Mark" ,
+    "editora": "Panini Book",
+    "Preco": 35.9,
+    "AnoPublicacao": 2018,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/12112230/1006695749.jpg?v=637142260046100000" 
+  },
+  {
+    "id": "946545OX",
+    "titulo": "Os Livros do Destino",
+    "autor": "Brubaker,Ed" ,
+    "editora": "Panini Book",
+    "Preco": 77.90,
+    "AnoPublicacao": 2017,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/2443217/492990.jpg?v=637016908244000000" 
+  },
+  {
+    "id": "9465450M",
+    "titulo": "The Punisher Vol.2 - Border Crossing",
+    "autor": "Edmondson,Nathan" ,
+    "editora": "Marvel Usa",
+    "Preco": 74.90,
+    "AnoPublicacao": 2014,
+    "image": "https://lojasaraiva.vteximg.com.br/arquivos/ids/9162130/1002916693.jpg?v=637103444929170000" 
+  }
+]
